@@ -157,4 +157,5 @@ systemctl stop firewalld
 
 ## TODO
 + nginx 配置ssl 下载
++ 研究docker版本 Docker version 17.12.0-ce, build c97c6d6
 + 制作应用镜像
